@@ -1,0 +1,7 @@
+install:
+    ✔ composer require sven/artisan-view --dev @done (7/22/2020, 2:47:59 PM)
+    ✔ laravel ui @done (7/22/2020, 2:48:00 PM)
+    ✔ laravel guzzle http @done (7/22/2020, 3:25:10 PM)
+    ☐ https://github.com/akaunting/setting
+    ☐ https://github.com/spatie/laravel-analytics
+    ☐ npm install && npm run dev
